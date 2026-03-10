@@ -1,1 +1,1 @@
-# 504GitExercise example
+# 504GitExercise example demonstration.
